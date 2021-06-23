@@ -1,0 +1,16 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex-grow: 1;
+}
+
+.fancy{
+  background-color: lightgray;
+  border: 1px solid lightslategray;
+  text-align: center;
+}
+
